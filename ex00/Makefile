@@ -6,7 +6,7 @@
 #    By: jerperez <jerperez@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/06 10:28:10 by jerperez          #+#    #+#              #
-#    Updated: 2024/05/03 10:40:17 by jerperez         ###   ########.fr        #
+#    Updated: 2024/05/03 11:24:58 by jerperez         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ CXX = c++
 CPPFLAGS = -Wall -Wextra -Werror -std=c++98	
 
 SRCS	=	main.cpp\
-			ScalarConverter.cpp\
+			BitcoinExchange.cpp\
 
 OBJ_DIR	=	obj
 
