@@ -6,11 +6,11 @@
 #    By: jerperez <jerperez@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/06 10:28:10 by jerperez          #+#    #+#              #
-#    Updated: 2024/04/23 16:52:07 by jerperez         ###   ########.fr        #
+#    Updated: 2024/05/03 10:40:17 by jerperez         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = convert
+NAME = btc
 
 CXX = c++
 CPPFLAGS = -Wall -Wextra -Werror -std=c++98	
